@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Typing animation
-const texts = ["Auto Panel Creator", "Pterodactyl API", "alizz Developer", "Server Management"];
+const texts = ["Auto Panel Creator", "Pterodactyl API", "alizz Developer", "Server"];
 let textIndex = 0;
 let charIndex = 0;
 const typingElement = document.getElementById("typing");
